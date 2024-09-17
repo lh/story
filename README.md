@@ -1,1 +1,1 @@
-This is a colloborative story about one groups journey with GitHub
+This is a collaborative story about one groups journey with GitHub
