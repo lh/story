@@ -7,4 +7,4 @@ if choosen_fork == 'left':
     import story_fork_left
 if choosen_fork == 'right':
     print(-f'you chose {chosen_fork}')
-    import story_fork_left
+    import story_fork_right
