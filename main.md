@@ -1,0 +1,1 @@
+Once upon a time there were several nerds who decided to get together to model problems in health, social, and other vaguely governmental areas. They called themselves the HSMA - which stands for "Help, Someone Made Aardvarks" 
